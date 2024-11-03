@@ -1,0 +1,7 @@
+C:\Users\jaest\source\repos\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\jaest\source\repos\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\jaest\source\repos\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\jaest\source\repos\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.AssemblyReference.cache
+C:\Users\jaest\source\repos\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\jaest\source\repos\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\jaest\source\repos\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
